@@ -1,0 +1,17 @@
+#font_big{
+    font-size: x-large;
+
+}
+#contact_me_form{
+    background-color: rgba(217, 229, 250, 0.782);
+    height: auto;
+    padding: 50px;
+    box-shadow: 5px;
+    right:auto;
+    left: auto;
+
+    margin-inline-start: 40%;
+ 
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.401);
+    position: absolute;
+}
